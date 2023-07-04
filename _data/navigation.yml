@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://dfedeoli.github.io/portfolio/docs/quick-start-guide/
+  - title: "About"
+    url: https://dfedeoli.github.io/portfolio/about/
+  - title: "Sample Posts"
+    url: https://dfedeoli.github.io/portfolio/year-archive/
+  - title: "Sample Collections"
+    url: https://dfedeoli.github.io/portfolio/collection-archive/
+  - title: "Sitemap"
+    url: https://dfedeoli.github.io/portfolio/sitemap/
